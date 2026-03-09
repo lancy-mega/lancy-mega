@@ -24,7 +24,7 @@ Tech: `Swift` `Objective-C` `iOS` `UIKit`
 ## 🌐 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/lancy-norbert-fernandes-8135bb86/)
-- GitHub: https://github.com/lancy98
+- Personal GitHub: https://github.com/lancy98
 
 ---
 
