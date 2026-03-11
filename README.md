@@ -15,9 +15,10 @@ iOS Developer focused on building high-performance, scalable applications using 
 Worked on the official **MEGA cloud storage iOS application**, contributing to development and improvements of the production app used by millions of users.
 
 🔗 App: https://apps.apple.com/app/mega/id706857885  
-🔗 Company: https://mega.io
+🔗 Company: https://mega.io  
+🔗 MEGA iOS Repo: https://github.com/meganz/iOS (1,854 commits)
 
-Tech: `Swift` `Objective-C` `iOS` `UIKit`
+Tech: `SwiftUI` `Swift` `Objective-C` `iOS` `UIKit`
 
 ---
 
@@ -27,9 +28,3 @@ Tech: `Swift` `Objective-C` `iOS` `UIKit`
 - Personal GitHub: https://github.com/lancy98
 
 ---
-
-#### My Github statistics
-![](https://raw.githubusercontent.com/lancy-mega/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/lancy-mega/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/lancy-mega/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/lancy-mega/github-stats/master/generated/languages.svg#gh-light-mode-only)
